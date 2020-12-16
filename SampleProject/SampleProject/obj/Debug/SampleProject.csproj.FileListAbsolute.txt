@@ -1,0 +1,7 @@
+D:\LTI\DevOps\Day2_16.12\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+D:\LTI\DevOps\Day2_16.12\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+D:\LTI\DevOps\Day2_16.12\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+D:\LTI\DevOps\Day2_16.12\SampleProject\SampleProject\obj\Debug\SampleProject.csprojAssemblyReference.cache
+D:\LTI\DevOps\Day2_16.12\SampleProject\SampleProject\obj\Debug\SampleProject.csproj.CoreCompileInputs.cache
+D:\LTI\DevOps\Day2_16.12\SampleProject\SampleProject\obj\Debug\SampleProject.exe
+D:\LTI\DevOps\Day2_16.12\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
