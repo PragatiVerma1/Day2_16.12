@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SampleProject
 {
-    partial class Class1
+    partial class Program
     {
         void PrintHello()
         {

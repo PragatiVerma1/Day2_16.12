@@ -10,6 +10,7 @@ namespace SampleProject
     {
         static void Main(string[] args)
         {
+            new Program().PrintHello();
             Console.WriteLine("Hello World!!");
             Console.WriteLine("Another line");
             Console.ReadKey();
